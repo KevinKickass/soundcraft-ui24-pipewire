@@ -36,3 +36,7 @@ pw-play --target soundcraft_out_pair_01_02 /usr/share/sounds/freedesktop/stereo/
 
 - PipeWire (with pipewire-pulse)
 - Soundcraft Ui24 connected via USB
+
+## Tested on
+
+- Fedora 43
